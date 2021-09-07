@@ -2,7 +2,7 @@
 
 Community maintained SmartBCH token registry used on https://MarketCap.Cash
 
-### How to add a token on MarketCap.Cash
+### How to add a token the list and on MarketCap.Cash
 1. Open an issue in this repository.
 2. Add name, symbol, address, image, link to website and other social media.
 
