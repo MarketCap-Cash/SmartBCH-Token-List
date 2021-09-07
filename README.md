@@ -1,1 +1,1 @@
-# SmartBCH-Token-List.json
+# SmartBCH-Token-List
