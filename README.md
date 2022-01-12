@@ -9,7 +9,7 @@ Community maintained SmartBCH token registry used on [MarketCap.Cash](https://Ma
 
     - [Add liquidity on MistSwap](https://app.mistswap.fi/pool)
     - [Add liquidity on BenSwap](https://dex.benswap.cash/#/pool)
-    - [Add liquidity on MuesliSwap](https://bch.muesliswap.com/liquidity)
     - [Add liquidity on TangoSwap](https://tangoswap.cash/pool)
     - [Add liquidity on 1BCH](https://1bch.com/liquidity)
     - [Add liquidity on Tropical](https://exchange.tropical.finance/#/pool)
+    - [Add liquidity on MuesliSwap](https://bch.muesliswap.com/liquidity)
