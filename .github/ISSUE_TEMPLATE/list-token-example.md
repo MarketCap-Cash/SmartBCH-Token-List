@@ -2,7 +2,7 @@
 name: List Token Example
 about: Use this template when listing a token
 title: INSERT TOKEN NAME
-labels: Listing request
+labels: ''
 assignees: ''
 
 ---
