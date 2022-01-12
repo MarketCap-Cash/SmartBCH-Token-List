@@ -1,8 +1,8 @@
 ---
 name: List Token Example
 about: Use this template when listing a token
-title: ''
-labels: ''
+title: INSERT TOKEN NAME
+labels: Listing request
 assignees: ''
 
 ---
