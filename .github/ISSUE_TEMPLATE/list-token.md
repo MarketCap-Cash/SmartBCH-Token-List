@@ -13,7 +13,9 @@ assignees: ''
   "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
   "symbol": "EBEN",
   "image": "link to image",
-  "website": "https://benswap.cash/",
+  "websites": ["https://benswap.cash/"],
   "telegram": "....",
-  "twitter": "..."
+  "twitter": "...",
+  "discord": "...",
+  "github": "..."
 }
