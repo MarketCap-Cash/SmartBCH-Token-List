@@ -14,3 +14,4 @@ Community maintained SmartBCH token registry used on [MarketCap.Cash](https://Ma
     - [Add liquidity on Tropical](https://exchange.tropical.finance/#/pool)
     - [Add liquidity on CowSwap](https://cowswap.cash/liquidity)
     - [Add liquidity on EmberSwap](https://emberswap.com/exchange/pool)
+    - [Add liquidity on LawSwap](https://blockng.money/#/liquidity)
